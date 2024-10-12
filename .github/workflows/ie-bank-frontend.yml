@@ -5,8 +5,8 @@ on:
   workflow_dispatch:
 
 env:
-  FRONTEND_WEBAPP_DEV: zaltayan-fe-dev
-  FRONTEND_WEBAPP_UAT: zaltayan-fe-uat
+  FRONTEND_WEBAPP_DEV: thulfi-fe-dev
+  FRONTEND_WEBAPP_UAT: thulfi-fe-uat
 
 jobs:
   build-dev:
